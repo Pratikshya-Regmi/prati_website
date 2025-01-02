@@ -1,0 +1,91 @@
+
+ 
+---
+title: "Pratikshya Regmi"
+subtitle: "PhD Student in Geospatial Analytics"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+---
+
+:::{.callout-note}
+To render this website:
+
+1. Install Quarto if you haven't already:
+   - Visit [quarto.org](https://quarto.org/docs/get-started/)
+   - Download and install for your operating system
+
+2. Open terminal/command prompt in this directory
+
+3. Run the command:
+   ```bash
+   quarto render website.qmd --to html
+   ```
+
+4. The output will be `website.html` which you can open in any web browser
+:::
+
+## About Me
+
+I am Pratikshya Regmi, originally from a remote village in Nepal. Currently, I am pursuing my PhD in Geospatial Analytics at North Carolina State University. My research focuses on using UAS and LiDAR data for accurate terrain modeling, and I am actively contributing to open-source GIS software.
+
+## Education
+
+- **PhD in Geospatial Analytics** (2023 - Present)  
+  North Carolina State University
+
+- **MS in Geospatial Systems Engineering** (2021 - 2023)  
+  Texas A&M University - Corpus Christi  
+  *Research: Palm Tree Detection*
+
+- **BE in Geomatics Engineering** (2014 - 2018)  
+  Kathmandu University, Nepal
+
+## Research & Projects
+
+- Integration of Large Language Models (LLMs) with GRASS GIS
+- UAS and LiDAR data analysis for terrain modeling
+- Palm tree detection using geospatial technologies
+- Development of visualization techniques for geospatial data
+
+## Professional Activities
+
+- Led hands-on workshops for GRASS GIS Jupyter Notebook
+- Presented research at multiple international conferences
+- Active contributor to open-source GIS software
+- Created advanced cartographic visualizations using ArcGIS
+
+## Publications & Presentations
+
+- Published research paper from undergraduate final project
+- Presented at virtual and in-person international conferences
+- Regular technical presentations on geospatial analytics
+
+## Connect
+
+- [LinkedIn Profile](https://www.linkedin.com/in/pratiregmi/)
+- Email: [pregmi3@ncsu.edu]()
+
+
+## How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/yourrepository.git
+   ```
+
+2. Make sure you have Quarto installed. If not, download it from [Quarto's website](https://quarto.org/docs/get-started/)
+
+3. Navigate to the repository directory:
+   ```bash
+   cd yourrepository
+   ```
+
+4. Run the command:
+   ```bash
+   quarto render website.qmd --to html
+   ```
+
+5. Open the generated `website.html` file in your web browser
