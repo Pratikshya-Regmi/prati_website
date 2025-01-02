@@ -69,23 +69,3 @@ I am Pratikshya Regmi, originally from a remote village in Nepal. Currently, I a
 - Email: [pregmi3@ncsu.edu]()
 
 
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   ```
-
-2. Make sure you have Quarto installed. If not, download it from [Quarto's website](https://quarto.org/docs/get-started/)
-
-3. Navigate to the repository directory:
-   ```bash
-   cd yourrepository
-   ```
-
-4. Run the command:
-   ```bash
-   quarto render website.qmd --to html
-   ```
-
-5. Open the generated `website.html` file in your web browser
